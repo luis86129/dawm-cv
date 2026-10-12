@@ -226,7 +226,7 @@ select:focus,
 textarea:focus {
     outline: none;
     border-color: var(--color-acento);
-    box-shadow: 0 0 0 3px rgba(7, 241, 77, 0.25);
+    box-shadow: 0 0 0 3px rgba(87, 126, 146, 0.25);
 }
 
 section {
